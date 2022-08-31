@@ -10,13 +10,8 @@ public class Main {
         IShapeFactory shapeFactory = new SimpleShapeFactory();
 
         // Create a shape not by the 'new' operator, but by concrete factory.
-        IShape shape = shapeFactory.createCircle();
+        IShape shape = shapeFactory.createShape();
         shape.getShape();
 
-        shape = shapeFactory.createSquare();
-        shape.getShape();
-        
-        shape = shapeFactory.createRectangle();
-        shape.getShape();
     }
 }
