@@ -5,7 +5,8 @@ import shape.IShape;
 import shape.Rectangle;
 import shape.Square;
 
-public class ConcreteShapeFactory implements IShapeFactory {
+public class SimpleShapeFactory implements IShapeFactory {
+    
     @Override
     public IShape createCircle() {
         return new Circle();
