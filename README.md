@@ -11,7 +11,8 @@ uses ShapeFactory to get a particular shape.`
 
 ### UML for our case
 
-![Factory method  shapes](https://user-images.githubusercontent.com/101111710/187606058-be18623a-4626-43bb-b33b-c0f7f52893c3.jpg)
+
+![Factory method  shapes](https://user-images.githubusercontent.com/101111710/187607735-51ab6457-f5a0-4dda-861e-4465a208d4b6.jpg)
 
 
 
