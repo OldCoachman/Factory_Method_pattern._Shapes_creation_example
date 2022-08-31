@@ -7,6 +7,9 @@ import shape.Square;
 
 import java.util.Scanner;
 
+/**
+ * Concrete creator
+ */
 public class SimpleShapeFactory implements IShapeFactory {
 
     /**
